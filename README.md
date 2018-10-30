@@ -22,5 +22,6 @@ If child also injects an instace of the same Service as the parent component, a 
 
 
 The screenshots of user service working: https://github.com/ShradhaPandey/usersApp-services-Angular7/issues/1#issue-375516133
-The screenshots of counter service working: https://github.com/ShradhaPandey/usersApp-services-Angular7/issues/2#issue-375521682
-
+The screenshots of counter service working:
+https://github.com/ShradhaPandey/usersApp-services-Angular7/issues/2#issue-375521682
+https://github.com/ShradhaPandey/usersApp-services-Angular7/issues/3#issue-375524329
