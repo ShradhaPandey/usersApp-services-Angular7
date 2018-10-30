@@ -19,4 +19,6 @@ If we Inject a service in a component (by using @Injector decorator), we get an 
 If child also injects an instace of the same Service as the parent component, a new instance will be generated and this will lead to problem in our code's execution.
 
 
-The screenshots of working projects: https://github.com/ShradhaPandey/usersApp-services-Angular7/issues/1#issue-375516133
+The screenshots of user service working: https://github.com/ShradhaPandey/usersApp-services-Angular7/issues/1#issue-375516133
+The screenshots of counter service working: 
+
