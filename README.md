@@ -7,6 +7,8 @@ Working:
 2. We can move the active usewrs into inactive users' list and vice versa.
 3. This means users of "active-users" component will move to the list of inactive users in "inactive-users" component and vice versa.
 4. By using Services to implement this eliminates use of event emmiter and input, output from the components' type script files.
+5. There is another functionality that the count is displayed on console whenever a user is pushed from active to inactive or from inactive to active.
+6. This is achieved by using another servie "counter service" and making user inject
 
 
 
@@ -20,5 +22,5 @@ If child also injects an instace of the same Service as the parent component, a 
 
 
 The screenshots of user service working: https://github.com/ShradhaPandey/usersApp-services-Angular7/issues/1#issue-375516133
-The screenshots of counter service working: 
+The screenshots of counter service working: https://github.com/ShradhaPandey/usersApp-services-Angular7/issues/2#issue-375521682
 
