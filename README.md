@@ -8,7 +8,7 @@ Working:
 3. This means users of "active-users" component will move to the list of inactive users in "inactive-users" component and vice versa.
 4. By using Services to implement this eliminates use of event emmiter and input, output from the components' type script files.
 5. There is another functionality that the count is displayed on console whenever a user is pushed from active to inactive or from inactive to active.
-6. This is achieved by using another servie "counter service" and making user inject
+6. This is achieved by using another servie "counter service" and by injective this service in uswer service.
 
 
 
